@@ -1,0 +1,22 @@
+{
+  "name": "student-management-system-byhassanali",
+  "version": "1.0.0",
+  "description": "Student Management System (SMS) is a command-line application built with Node.js and Inquirer.js, designed to manage student data including enrollment, course selection, fee calculation, and balance management. Users can add, remove, update, and view student information interactively. The system calculates tuition fees based on selected courses and available balances, enabling efficient student administration.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.11"
+  }
+}
