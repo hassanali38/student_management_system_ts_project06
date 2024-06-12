@@ -86,8 +86,8 @@ Remaining Balance: $15
 
 ### Acknowledgements
 
-1- Inquirer.js for prompt interface
-2- Chalk for styled console output
+1. [Inquirer.js](https://github.com/SBoudrias/Inquirer.js/) for prompt interface
+2. [Chalk](https://github.com/chalk/chalk) for styled console output
 
 ### Author
 Hassan Ali
